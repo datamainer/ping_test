@@ -4,5 +4,6 @@
   <p1>#: re</p1>
 
 <h2>Usage:</h2>
+  <p1>#: chmod +x ping_in_terminal.sh<br></p1>
   <p1>#: chmod +x start.sh<br></p1>
   <p1>#: ./start.sh</p1>
